@@ -1,10 +1,14 @@
-# User Management App
+# User Management Dashboard
 
 A modern, responsive Angular application for managing and viewing user information. Built with Angular 17+ and following best practices for component architecture, API integration, and responsive design.
 
 ![Angular](https://img.shields.io/badge/Angular-17.0-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)
 ![SCSS](https://img.shields.io/badge/SCSS-Styling-pink)
+
+## 🌐 Live Demo
+
+**Deployed on Render**: [View Live Application](https://user-dashboard.onrender.com)
 
 ## 📋 Features
 
